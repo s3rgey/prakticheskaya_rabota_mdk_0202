@@ -1,0 +1,12 @@
+C:\Users\Сергей\Desktop\prakticheskaya_rabota\prakticheskaya_rabota\bin\Debug\prakticheskaya_rabota.exe.config
+C:\Users\Сергей\Desktop\prakticheskaya_rabota\prakticheskaya_rabota\bin\Debug\prakticheskaya_rabota.exe
+C:\Users\Сергей\Desktop\prakticheskaya_rabota\prakticheskaya_rabota\bin\Debug\prakticheskaya_rabota.pdb
+C:\Users\Сергей\Desktop\prakticheskaya_rabota\prakticheskaya_rabota\bin\Debug\MaterialSkin.dll
+C:\Users\Сергей\Desktop\prakticheskaya_rabota\prakticheskaya_rabota\obj\Debug\prakticheskaya_rabota.csprojAssemblyReference.cache
+C:\Users\Сергей\Desktop\prakticheskaya_rabota\prakticheskaya_rabota\obj\Debug\prakticheskaya_rabota.Properties.Resources.resources
+C:\Users\Сергей\Desktop\prakticheskaya_rabota\prakticheskaya_rabota\obj\Debug\prakticheskaya_rabota.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\prakticheskaya_rabota\prakticheskaya_rabota\obj\Debug\prakticheskaya_rabota.csproj.CopyComplete
+C:\Users\Сергей\Desktop\prakticheskaya_rabota\prakticheskaya_rabota\obj\Debug\prakticheskaya_rabota.exe
+C:\Users\Сергей\Desktop\prakticheskaya_rabota\prakticheskaya_rabota\obj\Debug\prakticheskaya_rabota.pdb
+C:\Users\Сергей\Desktop\prakticheskaya_rabota\prakticheskaya_rabota\obj\Debug\prakticheskaya_rabota.auth.resources
+C:\Users\Сергей\Desktop\prakticheskaya_rabota\prakticheskaya_rabota\bin\Debug\MySql.Data.dll
